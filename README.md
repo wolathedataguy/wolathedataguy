@@ -59,12 +59,12 @@ I’m based in Lagos, Nigeria, and I’m always open to collaborating on project
 
 ## 📊 GitHub Stats & Analytics
 
-<div style="display: flex; gap: 30px; justify-content: space-evenly; flex-wrap: wrap;">
-    <a href="http://www.github.com/wolathedataguy" style="flex-basis: 45%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=wolathedataguy&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="wolathedataguy's GitHub stats" />
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <a href="http://www.github.com/wolathedataguy">
+        <img src="https://github-readme-stats.vercel.app/api?username=wolathedataguy&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&hide=issues" alt="GitHub Stats" width="400" height="150" />
     </a>
-    <a href="http://www.github.com/wolathedataguy" style="flex-basis: 45%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolathedataguy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <a href="http://www.github.com/wolathedataguy">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolathedataguy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="400" height="150" />
     </a>
 </div>
 
