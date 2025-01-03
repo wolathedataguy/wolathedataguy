@@ -37,9 +37,6 @@ I’m based in Lagos, Nigeria, and I’m always open to collaborating on project
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" height="50" alt="Amazon Web Services" />
     </a>
-    <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="50" height="50" alt="Digital Ocean" />
-    </a>
 </p>
 
 ---
