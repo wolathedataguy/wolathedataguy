@@ -31,12 +31,6 @@ I’m based in Lagos, Nigeria, and I’m always open to collaborating on project
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="50" height="50" alt="PyTorch" />
     </a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="50" height="50" alt="TensorFlow" />
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="50" height="50" alt="Amazon Web Services" />
-    </a>
 </p>
 
 ---
@@ -44,7 +38,7 @@ I’m based in Lagos, Nigeria, and I’m always open to collaborating on project
 ## 🌐 Socials
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/samuel-adekoya" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/samuel-adekoya" target="_blank" rel="noreferrer"">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35" height="35" alt="LinkedIn" />
     </a>
     <a href="https://www.x.com/wolathedataguy" target="_blank" rel="noreferrer">
